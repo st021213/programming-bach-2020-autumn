@@ -1,0 +1,6 @@
+cd \d D:\...
+git config --global user.email st021213@student.spbu.ru
+git config --global user.name st021213
+git add "cl test.txt"
+git commit -all
+git push
