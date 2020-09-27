@@ -1,6 +1,6 @@
 #include<iostream>
-#define N 10 //константы в стиле С
-const int LEN = 10; //константы в стиле C++
+#define N 10 //РєРѕРЅСЃС‚Р°РЅС‚С‹ РІ СЃС‚РёР»Рµ вЂ”
+const int LEN = 10; //РєРѕРЅСЃС‚Р°РЅС‚С‹ РІ СЃС‚РёР»Рµ C++
 
 using namespace std;
 
