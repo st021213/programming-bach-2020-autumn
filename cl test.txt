@@ -8,3 +8,6 @@ git push
 
 git commit --message "some changes" --all
 git push
+
+git fetch --all
+git reset --hard origin/master
