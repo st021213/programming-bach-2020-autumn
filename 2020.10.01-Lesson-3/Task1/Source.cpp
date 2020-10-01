@@ -9,12 +9,12 @@ void swap(int &a, int &b)
 	b = c;
 }
 
-void increment1(int i)
+void increment1(int i) //передача переменной по значению
 {
 	i++;
 }
 
-void increment2(int& i)
+void increment2(int& i) //передача переменной по ссылке
 {
 	i++;
 }
