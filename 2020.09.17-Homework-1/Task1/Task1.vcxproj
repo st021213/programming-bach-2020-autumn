@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DFB228AF-BED7-40D5-B586-30FEAE47CD3E}</ProjectGuid>
+    <ProjectGuid>{66729AEE-4B4A-4F7C-B4AE-83F13CF7447A}</ProjectGuid>
     <RootNamespace>Task1</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
