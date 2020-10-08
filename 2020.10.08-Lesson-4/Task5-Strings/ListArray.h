@@ -12,8 +12,8 @@ struct ListArray {
 	/* конструкторы */
 	ListArray(); //конструктор по умолчанию
 	ListArray(int cap); //конструктор с параметром
-	
-	/* деструктор */
+
+						/* деструктор */
 	~ListArray();
 
 	void push_back(int element);
